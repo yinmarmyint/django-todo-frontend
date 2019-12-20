@@ -1,0 +1,14 @@
+.compactCell {
+  padding: 0 !important;
+  &.focus {
+    background-color: rgb(229, 243, 243) !important;
+  }
+}
+
+.tableInput {
+  > input {
+    border: 0 !important;
+    background-color: transparent !important;
+    width: 150px !important;
+  }
+}
